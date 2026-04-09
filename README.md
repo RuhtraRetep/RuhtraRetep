@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Pedro (Ordep)
 
--💻 Desenvolvedor em formação 
--📚 Estudante do Senai
--🎯 Focado em aprender lógica, linguagens back-end e frameworks
--📚 Atualmente estou estudando Javascript, C#, .NET e banco de dados  
+- 💻 Desenvolvedor em formação 
+- 📚 Estudante do Senai
+- 🎯 Focado em aprender lógica, linguagens back-end e frameworks
+- 📚 Atualmente estou estudando Javascript, C#, .NET e banco de dados  
 
 
 ---
