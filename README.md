@@ -48,7 +48,6 @@ Tenho interesse em:
 
 ## 🎯 Objetivo
 - Me tornar um desenvolvedor back-end
-- 
 ---
 
 ## 📫 Contato
