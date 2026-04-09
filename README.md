@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro (Ordep)
+# 👋 Olá, eu sou o Pedro Arthur Bastos (Ordep)
 
 - 💻 Desenvolvedor em formação 
 - 📚 Estudante do Senai
