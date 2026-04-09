@@ -31,8 +31,8 @@ Tenho interesse em:
 
 ## 📌 Projetos em destaque
 🔹 Sistema de Login com Banco de Dados  
-🔹 Sistema de Cadastro de Produtos 
-🔹 Sistema de Gerenciamento de Alunos
+🔹 Sistema de Cadastro de Produtos  
+🔹 Sistema de Gerenciamento de Alunos  
 🔹 Aplicação Desktop (Windows Forms)  
 
 (Em breve mais projetos 👨‍💻)
